@@ -28,7 +28,8 @@ This Tableau dashboard provides key insights into stakeholder performance and bu
 2. **Open the `.twbx` File**: Load the packaged workbook in Tableau.
 3. **Explore the Dashboard**: Interact with filters, drill-throughs, and insights.
    
-![Dashboard Screenshot]("C:\Users\smita\Downloads\WhatsApp Image 2025-02-16 at 11.40.34 AM.jpeg")
+![Dashboard Screenshot]("![Screenshot 2025-02-14 115646](https://github.com/user-attachments/assets/0ffb8265-989c-47b7-bd0e-dcfb5e95f035)
+")
 ## 🏆 Key Takeaways
 This project showcases how data visualization enhances stakeholder insights and decision-making. By leveraging Tableau’s capabilities, businesses can drive efficiency and performance improvements.
 
